@@ -1,11 +1,5 @@
 #include "stdio.h"
 
-// Desenvolva um programa em C que apresente ao usuário um menu com as seguintes opções:
-//                   Digite uma das opcoes abaixo:
-//                   1- Transformar KPH para MPH;
-//                   2- Transformar MPH para KPH.
-// Caso o usuário informe a Opção 1 (como valor inteiro), um valor de ponto flutuante representando uma medida em quilômetros por hora (KPH) deverá ser lido e convertido para milhas por hora (MPH). Caso a Opção 2 seja escolhida, um valor de ponto flutuante representando uma medida em milhas por hora (MPH) deverá ser lido e convertido para quilômetros por hora (KPH). Caso nenhuma das opções disponíveis seja fornecida pelo usuário, o programa deverá encerrar. Exiba os valores lidos e convertidos seguindo a orientação do Exercício 1.
-
 int main()
 {
   int opcao;

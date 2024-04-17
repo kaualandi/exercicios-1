@@ -1,7 +1,5 @@
 #include "stdio.h"
 
-// Desenvolva um programa em C que permita ao usuário informar um número inteiro N > 0. Em seguida, o usuário deverá digitar N números inteiros, que deverão ser armazenados em um array. Por fim, o programa deverá ordenar o array em ordem crescente e exibi-lo ao usuário. Os números deverão ser exibidos em uma mesma linha, com a separação de um espaço entre eles.
-
 int main()
 {
 

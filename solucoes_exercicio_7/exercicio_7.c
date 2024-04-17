@@ -1,7 +1,5 @@
 #include "stdio.h"
 
-// Desenvolva um programa em C que receba duas strings str1 e str2 como entrada (compostas por caracteres pertencentes à tabela ASCII) e diga se ambas são anagramas, i.e. se possuem a mesma ocorrência de caracteres. Ao final, exiba uma mensagem de acordo com o formato abaixo (cada linha representa um caso de teste para str1 e str2):
-
 int main()
 {
 

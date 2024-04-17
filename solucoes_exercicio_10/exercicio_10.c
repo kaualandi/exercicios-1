@@ -22,7 +22,7 @@ int main()
   for (i = 0; i < tam; i++)
   {
     if (string[i] != ' ')
-    { // Ignora espaços
+    {
       if (direcao == 'D' || direcao == 'd')
       {
         if (string[i] >= 'A' && string[i] <= 'Z')

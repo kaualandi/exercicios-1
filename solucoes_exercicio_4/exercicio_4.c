@@ -1,7 +1,5 @@
 #include "stdio.h"
 
-// Desenvolva um programa em C que permita ao usuário informar um número inteiro N > 0. Em seguida, o usuário deverá digitar N números inteiros, que deverão ser armazenados em um array. Após, o programa deverá calcular a mediana dos valores do array. Para calcular corretamente a mediana, é preciso verificar se (i) o array está ordenado de forma crescente (utilize a solução do Exercício 3); e (ii) se N é par ou ímpar. Ao final, exiba uma mensagem no terminal informando a mediana referente ao array digitado pelo usuário.
-
 int main()
 {
 
